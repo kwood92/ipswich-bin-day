@@ -5,8 +5,8 @@
     "@kwood92"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/kwood92/ipswich_bin_day",
+  "documentation": "https://github.com/kwood92/ipswich-bin-day",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/kwood92/ipswich_bin_day/issues",
+  "issue_tracker": "https://github.com/kwood92/ipswich-bin-day/issues",
   "version": "0.1.0"
 }
